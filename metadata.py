@@ -3,7 +3,7 @@ import time
  
 # === CONFIGURATION ===
 RPC_URL = "http://10.229.43.182:8545"
-PRIVATE_KEY = ""
+PRIVATE_KEY = "3942de5719b6c29bbb621737eedc24dc32e2192e1390875baaafa1404112692a"
  
 # Connexion à la blockchain
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
